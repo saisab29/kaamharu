@@ -1,0 +1,53 @@
+.note{
+    padding: 25px;
+    height: 280px;
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    background-color: blueviolet;
+    border-radius: 30px;
+    box-shadow: 10px 0px 1px rgb(255, 199, 31);
+
+}
+
+.note_text{
+    flex: 1;
+    resize: none;
+    background-color: transparent;
+    font-size: 1rem;
+    line-height: 1.875rem;
+    outline: none;
+    border: none;
+
+}
+.note_footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.note_footer img{
+    cursor: pointer;
+    max-width: 10%;
+    opacity: 0;
+    transition: 300ms;
+}
+
+.note:hover .note_footer img{
+    opacity: 1;
+}
+
+.pencil img{
+    
+opacity: 1;  
+
+  left: 90px;
+  top: 15px;
+  transition: 300ms;
+  
+  
+
+}
+
+.note:hover .pencil img{
+    opacity: 0;
+}
