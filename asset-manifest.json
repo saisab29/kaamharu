@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kaamharu/static/css/main.6bfcf90e.css",
+    "main.js": "/kaamharu/static/js/main.a60189fd.js",
+    "static/media/kaamharulogo.png": "/kaamharu/static/media/kaamharulogo.9a8326c73b0d0d07f933.png",
+    "static/media/pencil.png": "/kaamharu/static/media/pencil.d9a77ab9dcec5e8b991d.png",
+    "static/media/delete.svg": "/kaamharu/static/media/delete.8618c2a5c71beb2ff7abcf855f43115e.svg",
+    "static/media/plus.svg": "/kaamharu/static/media/plus.f02e43bb2a4f2ae20913144623ff1147.svg",
+    "index.html": "/kaamharu/index.html",
+    "main.6bfcf90e.css.map": "/kaamharu/static/css/main.6bfcf90e.css.map",
+    "main.a60189fd.js.map": "/kaamharu/static/js/main.a60189fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bfcf90e.css",
+    "static/js/main.a60189fd.js"
+  ]
+}
